@@ -1,0 +1,43 @@
+body{
+	font-family: "Helvetica Neue", "Helvtica", "Arial", "sans-serif";
+	font-weight: 200;
+}
+
+.col-pixels{
+	width: 950px
+	margin: 0 auto;
+}
+
+article.col-pixels section{
+width: 300px;
+margin: 0 10px;
+float: left;
+}
+
+article.clo-fluid section{
+	width: 20%;
+	margin: 0 2.5%;
+	float: left;
+}
+
+nav{
+	width: 90%;
+	margin: 0 auto;
+}
+
+ul{
+	list-style-type: none;
+	padding: 0 auto;
+	margin: 0;
+}
+
+ul li{
+	display: inline-block;
+	width: 200px;
+}
+
+li a{
+	
+}
+
+

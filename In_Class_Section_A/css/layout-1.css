@@ -1,0 +1,47 @@
+main{
+width: 900px;
+margin: 0 auto;
+padding: 30px;
+}
+
+article{
+	width: 580px;
+	float: left;
+	margin-right: 20px
+}
+
+aside{
+	widows: 300px;
+	float: left;
+	min-height: 500px;
+}
+
+article{
+	padding: 20px;
+}
+
+/* aside ul{
+	} */
+
+.vertical-menu{
+list-style-type: none;
+padding: 0;
+}
+
+.vertical-menu{
+	padding: 10px 20px;
+	text-align: center;
+	border-bottom: 2px solid blue;
+}
+
+li a{
+	font-size: 18px;
+	color: purple;
+	text-decoration: none;
+	display: block;
+	padding: 10px 20px;
+}
+
+li a:hover {
+	background: rgba(0,100,255,0,2);
+}
